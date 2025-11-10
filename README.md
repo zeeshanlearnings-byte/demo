@@ -1,2 +1,3 @@
 # demo
-just trying to create one repo for sample
+My First Github Repository.
+Author - Zeeshan Shaikh.
