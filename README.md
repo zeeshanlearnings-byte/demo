@@ -1,3 +1,3 @@
 # demo
 My First Github Repository.
-Author - Zeeshan Rafiue Shaikh.
+Author - Zeeshan Rafique Shaikh.
